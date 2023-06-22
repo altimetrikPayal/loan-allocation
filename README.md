@@ -10,6 +10,6 @@ git clone git@github.com:altimetrikPayal/loan-allocation.git
 
 3. Run the following commands to run the application
 
-  $ ruby loan_allocation.rb
+  $ ruby investors.rb
   $ bundle exec rspec # To run rspecs
 
